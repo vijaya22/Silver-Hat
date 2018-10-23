@@ -5,3 +5,4 @@ htfghftgtj
 India
 Text compile
 Git checkout
+git status
