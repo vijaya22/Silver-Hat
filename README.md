@@ -1,5 +1,2 @@
 # Silver-Hat
-tfgjfghjtfg
-gdfgd
-htfghftgtj
-India
+Dijkstra doesn’t work for Graphs with negative weight edges, Bellman-Ford works for such graphs.
