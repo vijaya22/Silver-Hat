@@ -1,5 +1,2 @@
 # Silver-Hat
-tfgjfghjtfg
-gdfgd
-htfghftgtj
-India
+This is the Read.md file for Silver-Hat
