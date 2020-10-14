@@ -1,5 +1,12 @@
 # Silver-Hat
 
+tfgjfghjtfg
+gdfgd
+htfghftgtj
+India
+Djiktra's theoram-shortest path
+
+
 Djiktra's algorithm
 
 
@@ -132,4 +139,5 @@ class Graph {
   
 
 Dijkstra doesn’t work for Graphs with negative weight edges, Bellman-Ford works for such graphs.
+
 
