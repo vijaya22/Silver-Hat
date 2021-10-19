@@ -140,4 +140,6 @@ class Graph {
 
 Dijkstra doesn’t work for Graphs with negative weight edges, Bellman-Ford works for such graphs.
 
+A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph. 
+
 
