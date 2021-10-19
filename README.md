@@ -140,4 +140,6 @@ class Graph {
 
 Dijkstra doesn’t work for Graphs with negative weight edges, Bellman-Ford works for such graphs.
 
+bfs example
+For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Breadth-First Traversal of the following graph is 2, 0, 3, 1.
 
