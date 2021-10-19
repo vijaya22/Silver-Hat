@@ -1,6 +1,6 @@
 # Silver-Hat
-tfgjfghjtfg
-gdfgd
-htfghftgtj
-Gdeinddkld
-HD jdbedkdkkd
+suggestive topics
+
+Strings
+Binary trees
+arrays
