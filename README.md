@@ -6,3 +6,4 @@ Binary trees
 arrays
 LinkedList
 DP
+DFS AND BFS
